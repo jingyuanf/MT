@@ -1,0 +1,1 @@
+python3 stratify_snps_4bins.py --maf 0.1 --ldsc 2.67 -s LDSCORE_DIR -o OUTPUT_DIR -f LDSC_FILE_NAMES.txt

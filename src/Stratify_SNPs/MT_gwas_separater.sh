@@ -1,0 +1,1 @@
+python3 MT_gwas_separater_4bins.py -g FOLDER_CONTAINING_GWAS_FILES -s .rand200k -t Pheno_list_example.txt --binpath PATH_OF_SNP_BINS --binfile FILENAMES_OF_SNP_BINS --outdir OUTPUT_DIRECTORY --outfile OUTPUT_FILE_SUFFIX(Followed by trait names)
