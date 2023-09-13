@@ -1,0 +1,8 @@
+trait1_trait2.log
+trait1_trait3.log
+trait1_trait4.log
+trait2_trait1.log
+trait2_trait3.log
+trait2_trait4.log
+
+

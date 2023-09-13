@@ -1,0 +1,5 @@
+armfat_percent_3hp
+height_3ap
+pulse_3ah
+depression_2n
+neuroticism_2d

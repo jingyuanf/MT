@@ -1,0 +1,7 @@
+armfat_percent,trunkfat_percent,waistc
+trunkfat_percent,armfat_percent,waistc
+waistc,trunkfat_percent,armfat_percent
+pulse_automated,pulse_manual
+pulse_manual,pulse_automated
+pulse_automated,height
+height,pulse_automated

@@ -1,0 +1,4 @@
+trait	nSnpMunged	h2	h2SE	lambda_GC	meanChisq	intercept	interceptSE	ratio
+armfat_percent	61215	0.0648	0.0177	1.0895	1.0984	0.978	0.0319	-9
+trunkfat_percent	61215	0.0657	0.0212	1.1207	1.1188	1.0087	0.0353	0.0732
+waistc	61215	0.1587	0.0187	1.2365	1.2712	0.9503	0.0358	-9
